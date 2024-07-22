@@ -1,0 +1,26 @@
+div{
+    margin-left: 200px;
+    background-color: antiquewhite;
+    width: 900px;
+    margin-top: 200px;
+}
+h1{
+    padding:20px;
+}
+button{
+    margin-left: 20px;
+    margin-bottom: 1px;
+    padding: 10px 20px;
+    background-color: rgb(236, 56, 56);
+    border: none;
+    cursor: pointer;
+}
+#D{
+    margin-bottom: 40px;
+}
+span{
+    padding: 9px 20px;
+    padding-right: 600px;
+    padding-bottom: 10px;
+    background-color: white;
+}
